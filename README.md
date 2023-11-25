@@ -1,4 +1,4 @@
-# Lambda-NFA_to_DFA_Conversion
+# Lambda-NFA to DFA Conversion
 This repository contains an implementation for transforming a Lambda-NFA (Non-deterministic Finite Automaton with Lambda transitions) into a DFA (Deterministic Finite Automaton). The project aims to provide a mechanism to convert complex Lambda-NFAs into simpler DFAs for efficient state representation and analysis.
 ## Project Overview
 The implemented solution offers the following functionalities:
